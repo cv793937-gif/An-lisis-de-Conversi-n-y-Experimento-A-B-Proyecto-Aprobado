@@ -3,6 +3,15 @@ ab-test-conversion-analysis
 Este proyecto analiza el desempeño de dos landing pages (A y B) mediante un experimento A/B, evaluando su impacto en la tasa de conversión y el gasto promedio.
 El objetivo es identificar cuál página genera mejores resultados y qué variables influyen en la conversión.
 
+En un entorno digital donde cada clic cuenta, una empresa decide optimizar su funnel de conversión.
+El equipo de marketing lanza dos versiones de su landing page —A y B— con una pregunta clave:
+
+¿Cuál página convierte mejor y por qué?
+
+El reto no era solo comparar números, sino entender el comportamiento del usuario, validar hipótesis con rigor estadístico y traducir datos en decisiones de negocio.
+
+Este proyecto nace de esa necesidad:
+medir, analizar y recomendar con evidencia, no con intuición.
 El análisis incluye:
 
 Exploración de datos
@@ -15,7 +24,7 @@ Interpretación de resultados
 
 Recomendaciones de negocio
 
-🧠 Tecnologías Utilizadas
+ Tecnologías Utilizadas
 Python
 
 Pandas
