@@ -1,4 +1,4 @@
-Análisis de Conversión y Experimento A/B — Proyecto Aprobado
+ab-test-conversion-analysis
 📌 Descripción del Proyecto
 Este proyecto analiza el desempeño de dos landing pages (A y B) mediante un experimento A/B, evaluando su impacto en la tasa de conversión y el gasto promedio.
 El objetivo es identificar cuál página genera mejores resultados y qué variables influyen en la conversión.
