@@ -1,0 +1,12 @@
+# Ignore Jupyter and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
