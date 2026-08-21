@@ -1,6 +1,12 @@
 # Análisis de Conversión y Experimento A/B
 
 ## Resumen ejecutivo
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
 Este proyecto evalúa el rendimiento de dos versiones de una landing page, **A** y **B**, mediante un experimento A/B. El análisis busca determinar cuál variante genera una **mayor tasa de conversión** y un **mayor gasto promedio por usuario convertido**, con el fin de sustentar una decisión de negocio basada en evidencia.
 
 **Hallazgo principal:** la **landing page B** muestra un mejor desempeño general que la versión A, tanto en conversión como en valor generado por usuario convertido.
